@@ -17,7 +17,6 @@ body {
   color: white;
   font-size: 20px;
   border-style: solid;
-  border-color: gray;
   text-align: center;
 }
 .dropdown:hover {
@@ -157,7 +156,7 @@ a {
 
 .enter {
   font-size: 50px;
-  font-family: 'Fira Mono', monospace;
+  font-family: 'Times New Roman', Times, serif;
   margin-top: 20%;
   margin-bottom: 20%;
   position: relative;
