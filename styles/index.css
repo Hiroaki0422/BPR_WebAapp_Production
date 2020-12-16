@@ -3,10 +3,6 @@ body {
   background-size: cover;
 }
 
-html {
-  border: solid white 2.5px;
-}
-
 .header {
   display: flex;
   flex-direction: column;

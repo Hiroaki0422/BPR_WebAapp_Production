@@ -28,7 +28,7 @@ function NoteContent() {
                     coming on</i>, and finally arrive to stare at Sophia Terazawa’s gibbon, frozen in mid-air. The words
                     themselves feel tense, full, as muscles electrified by the effort of immobility. And full, too, of
                     desire — iterating in the body longing to <i>push past [it]self</i>, as TR Brady insists, and to reject the
-                    static “having” of itself. Rosie Stockton writes <i>I want to be / nothing but / of things</i> gesturing
+                    static “having” of itself. Rosie Stockton writes <i>I want to be / nothing but / of things</i>, gesturing
                     towards fixed modes of physical perception and, in doing so, challenging their very being, their
                     necessity. </p> 
                   <p>Many of our MIDTERM FOUR poets have also laced their work with nods to auditory
