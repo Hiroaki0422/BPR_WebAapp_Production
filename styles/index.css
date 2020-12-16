@@ -16,7 +16,6 @@ body {
   position: relative;
   color: white;
   font-size: 20px;
-  border-style: solid;
   text-align: center;
 }
 .dropdown:hover {
