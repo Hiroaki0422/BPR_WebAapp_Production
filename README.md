@@ -1,3 +1,9 @@
+# About this Project
+I developed and deployed this web application for Berkeley Poetry Review. The application is currently in production use.
+Please visit the website to see interesting interaction I implemented
+
+https://berkeley-poetry-review-midtermstasis-lu7u8ih6l.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
